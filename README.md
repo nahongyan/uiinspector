@@ -18,6 +18,9 @@ UI Inspector 是一个集成到 Qt Creator 中的强大插件，它将 GammaRay 
 - **样式检查**: 检查 QStyle 的所有构建块
 - **坐标系统可视化**: 显示坐标系统、变换原点、旋转/缩放/平移等
 
+## 📸主界面演示
+![UI Inspector 演示](screenshots/screenshot.gif)
+
 
 ## 功能对比矩阵
 
@@ -225,6 +228,22 @@ graph TD
 ### 许可证
 - UI Inspector Plugin: 遵循 Qt Creator 的许可证
 - GammaRay Components: GPL v2 或更高版本
+
+## 📞 联系我们
+
+### QQ 交流群
+如果您在使用过程中遇到问题，或者想要与其他开发者交流经验，欢迎加入我们的 QQ 交流群：
+
+**群号：831617934**
+
+在群里您可以：
+- 获得技术支持和使用指导
+- 分享使用经验和最佳实践
+- 反馈 bug 和功能建议
+- 与其他 Qt 开发者交流
+
+### 贡献代码
+欢迎提交 Pull Request 或 Issue 来帮助改进这个插件。
 
 ---
 
